@@ -79,7 +79,7 @@ Starting with the HR reconciliation was the right call. I built a baseline of wh
 
 It's incredibly easy to "panic disable" a privileged account with activity after its contract end date. My instinct to pause rather than immediately smashing the "disable account" button came down to operational awareness.
 
-Acting too quickly can cause problems. Disabling access someone still needs can disrupt their work without fixing the real issue, so I needed to understand the situation before deciding what to do. That wasn't something the records showed, but it was a possibility I needed to check.
+Acting too quickly can cause problems. Disabling access someone still needs can disrupt their work without fixing the real issue, so I needed to understand the situation before deciding what to do. That wasn't something the records showed, but it was a possibility I needed to check, while treating the access risk as a priority.
 
 Reading the NIST guidance helped me anchor that restraint. It allowed me to slow down and establish what needed confirming before recommending a disruptive change.
 
