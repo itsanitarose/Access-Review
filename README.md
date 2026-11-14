@@ -84,8 +84,7 @@ Acting too quickly can cause problems. Disabling access someone still needs can 
 Reading the NIST guidance helped me anchor that restraint. It allowed me to slow down and establish what needed confirming before recommending a disruptive change.
 
 
-I also explored Microsoft's guidance on dormant and shared accounts, alongside [NHS England's approach](https://www.england.nhs.uk/long-read/smartcards-and-access-controls/#other-leavers) to extended leave, which I found particularly interesting for how large organisations dynamically handle extended leave and temporary lifecycle pauses.
-
+I also explored Microsoft's guidance on dormant and shared accounts, alongside [NHS England's approach](https://www.england.nhs.uk/long-read/smartcards-and-access-controls/#other-leavers) to extended leave, which I found particularly interesting for how large organisations manage extended leave and temporary changes in access.
 
 <br>
 
