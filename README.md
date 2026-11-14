@@ -90,7 +90,11 @@ I also explored Microsoft's guidance on dormant and shared accounts, alongside [
 
 ## What I Will Improve Next Time
 
-When I reached a blind spot in the records, I researched what needed confirming and made a recommendation. Looking back, I could have been more specific about the investigation itself. For `treyes`, I recommended investigating the login activity, but I could have set out what to check, which evidence to request and what questions it needed to answer. Next time, I'll make those steps clearer rather than leave the investigation as a broad recommendation.
+When I reached a blind spot in the records, I researched what needed confirming and made a recommendation. Looking back, I could have been more precise.
+
+For `treyes`, my first draft recommended investigating the login activity, but didn't specify which evidence to request or what questions it needed to answer.
+
+Next time, I'll define those steps earlier and more precisely, rather than leave the investigation as a broad recommendation.
 
 
 
