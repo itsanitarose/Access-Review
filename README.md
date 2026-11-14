@@ -26,7 +26,7 @@ I started with employment status, contract end dates and recent login activity. 
 
 ### 2. Is the access still appropriate?
 
-Finding a matching HR record didn't mean the permissions were right. I checked access levels, administrative privileges and shared credentials against job responsibilities.
+Finding a matching HR record didn't mean the permissions were right. I checked access levels, administrative privileges and shared credentials against job responsibilities, looking for access that appeared excessive or difficult to attribute to an individual.
 
 ### 3. What needs further investigation?
 
