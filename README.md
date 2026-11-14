@@ -36,7 +36,9 @@ For suspicious login activity, I would need authentication and application audit
 
 ### 4. What needs attention first?
 
-I ranked the findings by risk, considering the privileges involved, the available information and the potential consequences. Not every discrepancy required the same response.
+I ranked the findings by risk, considering the privileges involved, the evidence available and the potential consequences of misuse.
+
+I also considered the impact of restricting access that might still be legitimate. Not every discrepancy required the same response.
 
 <br>
 
