@@ -30,7 +30,9 @@ Finding a matching HR record didn't mean the permissions were right. I checked a
 
 ### 3. What needs further investigation?
 
-Some accounts couldn't be assessed from the exports alone. For those, I needed to establish who owned the account, why the access existed and who could confirm it was still required.
+Some accounts couldn't be assessed from the exports alone. I needed to establish who owned the account, whether the access had been approved and whether it was still required.
+
+For suspicious login activity, I would need authentication and application audit logs to establish what happened, alongside approval records to determine whether the access was authorised.
 
 ### 4. What needs attention first?
 
