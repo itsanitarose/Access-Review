@@ -75,7 +75,7 @@ Explore the [findings and recommendations](Documents/02.%20Findings%20%26%20Reco
 
 ## Looking Back at the Review
 
-Starting with the HR reconciliation was the right call. I built a baseline of what the company should look like versus what it actually looked like in the records.
+Starting with the HR reconciliation was the right call. It gave me a baseline of who should have access versus who actually had access according to the portal records.
 
 It's incredibly easy to "panic disable" a privileged account with activity after its contract end date. My instinct to pause rather than immediately smashing the "disable account" button came down to operational awareness.
 
