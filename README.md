@@ -59,17 +59,17 @@ The review covered seven accounts.
 
 Two accounts were rated Critical, so I needed to decide which required attention first.
 
-The contractor's recorded end date was 31 July 2026, but the portal export showed an admin login on 28 September 2026. Almost two months later, the account still had administrative access.
+The contractor's recorded end date was 31 July 2026, but the portal export showed an Admin login on 28 September 2026. Almost two months later, the account still had administrative access.
 
-I prioritised **`treyes`** because those privileges increased the potential impact of misuse.
+I prioritised `treyes` because those privileges increased the potential impact of misuse.
 
-My **recommendation** was to confirm whether the contract had been extended and continued access approved. If there was no valid authorisation, I recommended disabling the account and investigating the login activity.
+My **recommendation** was to confirm whether the contract had been extended and continued access approved. I'd check HR and manager approvals, verify the need for Admin privileges and request the login logs. If the access couldn't be justified, I'd recommend disabling the account and investigating the activity.
 
-But there's a point I don't want to overlook. The records raise a serious concern, but it's possible the contract was extended without HR being updated. That would point to a governance gap that needs correcting.
+But there's a point I don't want to overlook. The contract might have been extended without HR being updated. That would point to a governance gap that needs correcting.
 
+And one thing remains uncertain: the exports don't tell me who logged in or what they did.
 
 Explore the [findings and recommendations](Documents/02.%20Findings%20%26%20Recommendations.md) for the remaining six accounts.
-
 
 <br>
 
