@@ -34,7 +34,7 @@ The contractor's contract ended on 31 July 2026, but the account was used with a
 
 <BR>
 
-Before deciding what to change, I needed to understand what that access could put at risk.
+The review flagged two critical accounts, with continued administrative access presenting the greatest risk. I needed to assess the potential impact before recommending action.
 
 <BR>
 
