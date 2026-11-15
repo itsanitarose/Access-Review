@@ -24,7 +24,7 @@ Two accounts showed logins after their recorded end dates. I prioritised `treyes
 </tr>
 </table>
 
-My first step was to compare who should have access with who the portal records showed actually had it.
+Before deciding what to change, I needed to understand what that access could put at risk.
 
 <BR>
 
@@ -124,7 +124,7 @@ Next time, I'll define those steps earlier and more precisely, rather than leave
 
 | Document | What's Inside |
 |---|---|
-| [01. Source Data](Documents/01.%20Source%20Data.md) | Original HR records and patient portal export |
+| [01. HR Export & Patient Admin Portal Users](Documents/01.%20HR%20Export%20%26%20Patient%20Admin%20Portal%20Users.md) | Original HR records and patient portal export |
 | [02. Findings & Recommendations](Documents/02.%20Findings%20%26%20Recommendations.md) | Access discrepancies, risk ratings and proposed actions |
 | [03. Preventive Controls](Documents/03.%20Preventive%20Controls.md) | Recommendations to prevent recurring access issues |
 | [04. IT Manager Summary](Documents/04.%20Summary%20for%20the%20IT%20Manager.md) | Key findings and recommended priorities |
