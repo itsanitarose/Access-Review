@@ -18,7 +18,7 @@ My first ticket arrives. The IT Manager writes:
 <tr>
 <td>
 
-**🛡️ ACCESS DECISION**
+**🛡️ At a glance**
 
 Two accounts logged in after their recorded end dates. I prioritised `treyes` because its administrator permissions increased the potential harm from misuse. I recommended checking approval for continued access, investigating the logins and restricting access if unjustified. Recommendations for the other six accounts are in [Findings & Recommendations](Documents/02.%20Findings%20%26%20Recommendations.md).
 
