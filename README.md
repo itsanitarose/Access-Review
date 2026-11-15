@@ -18,7 +18,7 @@ My first ticket arrives. The IT Manager writes:
 <tr>
 <td>
 
-### 🛡️ Decision
+**🛡️ Decision**
 
 **Confirm whether `treyes` is still authorised. If not, disable the account.**
 
