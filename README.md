@@ -18,9 +18,15 @@ My first ticket arrives. The IT Manager writes:
 <tr>
 <td>
 
-**🛡️ The Bottom Line**
+### 🛡️ Decision
 
-Two accounts logged in after their recorded end dates. I prioritised `treyes` because its administrator permissions increased the potential harm from misuse. I recommended checking approval for continued access, investigating the logins and restricting access if unjustified. Recommendations for the other six accounts are in [Findings & Recommendations](Documents/02.%20Findings%20%26%20Recommendations.md).
+**Confirm whether `treyes` is still authorised. If not, disable the account.**
+
+The contractor's contract ended on 31 July 2026, but the account was used with administrator access on 28 September.
+
+**2 of 7 accounts** were used after their end dates. `treyes` is the highest priority because administrator access poses a greater security risk.
+
+**Other six accounts:** [Findings & Recommendations](https://github.com/itsanitarose/Access-Review/blob/main/Documents/02.%20Findings%20%26%20Recommendations.md)
 
 </td>
 </tr>
