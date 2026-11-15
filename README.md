@@ -20,7 +20,7 @@ My first ticket arrives. The IT Manager writes:
 
 **🛡️ Decision**
 
-**Confirm whether `treyes` is still authorised. If not, disable the account.**
+Confirm whether `treyes` is still authorised. If not, disable the account.
 
 The contractor's contract ended on 31 July 2026, but the account was used with administrator access on 28 September.
 
