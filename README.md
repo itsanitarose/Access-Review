@@ -10,6 +10,24 @@ My first ticket arrives. The IT Manager writes:
 
 <br>
 
+**Supporting Information:** [HR Export & Patient Admin Portal Users](Documents/01.%20Source%20Data.md)
+
+<table>
+<tr>
+<td>
+
+**🛡️ ACCESS DECISION**
+
+Two accounts showed logins after their recorded end dates. I prioritised `treyes`, whose Admin access required urgent verification. I recommended confirming authorisation, investigating the login and restricting access if it couldn't be justified.
+
+</td>
+</tr>
+</table>
+
+My first step was to compare who should have access with who the portal records showed actually had it.
+
+<BR>
+
 ## What's the Risk?
 
 The patient admin portal contains sensitive information. Access that no longer matches someone's responsibilities puts **patient data at risk**, but removing it without checking could **disrupt legitimate work** and **business operations**.
