@@ -12,17 +12,21 @@ My first ticket arrives. The IT Manager writes:
 
 **Supporting Information:** [HR Export & Patient Admin Portal Users](Documents/01.%20Source%20Data.md)
 
+<BR><BR>
+
 <table>
 <tr>
 <td>
 
 **🛡️ ACCESS DECISION**
 
-Two accounts showed logins after their recorded end dates. I prioritised `treyes`, whose Admin access required urgent verification. I recommended confirming authorisation, investigating the login and restricting access if it couldn't be justified.
+Two accounts logged in after their recorded end dates. I prioritised `treyes` because its administrator permissions increased the potential harm from misuse. I recommended checking approval for continued access, investigating the logins and restricting access if unjustified. Recommendations for the other six accounts are in Recommendations for the other six accounts are in [Findings & Recommendations](Documents/02.%20Findings%20%26%20Recommendations.md).
 
 </td>
 </tr>
 </table>
+
+<BR>
 
 Before deciding what to change, I needed to understand what that access could put at risk.
 
